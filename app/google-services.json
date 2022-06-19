@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579863628998",
+    "project_id": "article-1f94c",
+    "storage_bucket": "article-1f94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579863628998:android:a9c131d588beb318261bc7",
+        "android_client_info": {
+          "package_name": "com.example.flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579863628998-2ipviu7gehm5cj2l2b9003omleqaalf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtF5np-7lGURd-bx346cv-GdIbkL0yoZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579863628998-2ipviu7gehm5cj2l2b9003omleqaalf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
